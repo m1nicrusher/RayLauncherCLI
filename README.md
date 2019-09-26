@@ -1,5 +1,5 @@
 # RayLauncherCLI
-Command Line Version of RayLauncher especially designed for Linux (A Minecraft Launcher by S.G.)
+Command Line Version of RayLauncher (A Minecraft Launcher by S.G.) especially designed for Linux
 
 ### Expected Features
 * Developed with .NET Core (dotnet). So it's expected to run on all machine.
